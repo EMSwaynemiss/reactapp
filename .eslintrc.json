@@ -1,0 +1,8 @@
+{
+  "env":{
+    "browser":true//使用的是浏览器
+  },
+  "extends":[
+    "airbnb"//启用airbnb的推荐规则
+  ]
+}
